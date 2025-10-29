@@ -1,0 +1,5 @@
+{
+  "name": "EduStream Platform",
+  "description": "A robust and secure video streaming platform designed for educators. It features subscription-based access, a 24-hour free trial for new users, and a dedicated admin interface for video management.",
+  "requestFramePermissions": []
+}
